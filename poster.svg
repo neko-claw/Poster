@@ -46,8 +46,8 @@
 
   <text x="182" y="620" fill="#15232F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="184" font-weight="700" letter-spacing="-5">Find the photo</text>
   <text x="182" y="808" fill="#15232F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="184" font-weight="700" letter-spacing="-5">you remember.</text>
-  <text x="182" y="985" fill="#60707A" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="58" font-weight="500">A local-first semantic search engine for personal image archives.</text>
-  <text x="182" y="1061" fill="#60707A" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="58" font-weight="500">Search by natural language, similar image, or direct upload.</text>
+  <text x="182" y="978" fill="#60707A" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="54" font-weight="500">A local-first semantic search engine for personal image archives.</text>
+  <text x="182" y="1048" fill="#60707A" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="54" font-weight="500">Search by natural language, similar image, or direct upload.</text>
 
   <g filter="url(#shadowSm)">
     <rect x="182" y="1168" width="684" height="112" rx="32" fill="#17323B"/>
@@ -74,15 +74,16 @@
   <text x="182" y="1598" fill="#15232F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="2">WHY IT MATTERS</text>
   <text x="182" y="1710" fill="#15232F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="-2">Photo libraries keep growing.</text>
   <text x="182" y="1800" fill="#15232F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="-2">Memory recall does not.</text>
-  <text x="182" y="1910" fill="#66737B" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="42">This project turns vague recollection into precise retrieval with multimodal indexing.</text>
+  <text x="182" y="1902" fill="#66737B" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="38">This project turns vague recollection into precise retrieval</text>
+  <text x="182" y="1960" fill="#66737B" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="38">with multimodal indexing.</text>
 
   <g>
     <circle cx="206" cy="2088" r="12" fill="#2B5D5C"/>
-    <text x="244" y="2102" fill="#24343F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="40">Natural-language queries map directly to image semantics.</text>
+    <text x="244" y="2102" fill="#24343F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="36">Natural-language queries map directly to image semantics.</text>
     <circle cx="206" cy="2192" r="12" fill="#2B5D5C"/>
-    <text x="244" y="2206" fill="#24343F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="40">FAISS keeps retrieval fast enough for real desktop archives.</text>
+    <text x="244" y="2206" fill="#24343F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="36">FAISS keeps retrieval fast enough for real desktop archives.</text>
     <circle cx="206" cy="2296" r="12" fill="#2B5D5C"/>
-    <text x="244" y="2310" fill="#24343F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="40">OpenAI-compatible embeddings fit flexible deployment choices.</text>
+    <text x="244" y="2310" fill="#24343F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="36">OpenAI-compatible embeddings fit flexible deployment choices.</text>
   </g>
 
   <g filter="url(#shadowSm)">
@@ -106,9 +107,10 @@
 
     <rect x="1396" y="2692" width="640" height="404" rx="34" fill="#17323B"/>
     <text x="1440" y="2794" fill="#F7F3EC" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="52" font-weight="700">3. Recall</text>
-    <text x="1440" y="2874" fill="#D5E0DE" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="34">Judges can test the live repo instantly:</text>
-    <text x="1440" y="2932" fill="#D5E0DE" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="34">browse the code, run locally, verify the UI.</text>
-    <text x="1440" y="2990" fill="#F4C8A8" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="700">The poster points back to a working product.</text>
+    <text x="1440" y="2866" fill="#D5E0DE" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="26">Judges can test the live repo instantly:</text>
+    <text x="1440" y="2910" fill="#D5E0DE" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="26">browse code, run locally,</text>
+    <text x="1440" y="2952" fill="#D5E0DE" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="26">and verify the UI.</text>
+    <text x="1440" y="3002" fill="#F4C8A8" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="700">Poster links to a working product.</text>
   </g>
 
   <line x1="724" y1="2894" x2="800" y2="2894" stroke="#C7B9A7" stroke-width="6" stroke-linecap="round"/>
@@ -120,8 +122,9 @@
   </g>
   <text x="252" y="3520" fill="#2B5D5C" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3">TRY THE PROJECT</text>
   <text x="252" y="3666" fill="#15232F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="98" font-weight="700" letter-spacing="-2">Scan for source code</text>
-  <text x="252" y="3778" fill="#60707A" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="42">GitHub repository: shizhenneko/Photo_Search_Engine</text>
-  <text x="252" y="3848" fill="#60707A" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="42">For judges: repo access, setup details, and reproducible screenshots are one scan away.</text>
+  <text x="252" y="3778" fill="#60707A" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="38">GitHub repository: shizhenneko / Photo_Search_Engine</text>
+  <text x="252" y="3840" fill="#60707A" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="36">For judges: repo access, setup details, and reproducible</text>
+  <text x="252" y="3894" fill="#60707A" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="36">screenshots are one scan away.</text>
 
   <g filter="url(#shadowSm)">
     <rect x="252" y="3940" width="536" height="536" rx="32" fill="#FFFFFF"/>
@@ -131,18 +134,18 @@
   <g>
     <text x="876" y="4050" fill="#15232F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700">What judges get immediately</text>
     <text x="876" y="4150" fill="#24343F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="38">• Source code and implementation details</text>
-    <text x="876" y="4224" fill="#24343F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="38">• UI reference matching the screenshot on this poster</text>
-    <text x="876" y="4298" fill="#24343F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="38">• A clean path to local setup and further evaluation</text>
+    <text x="876" y="4224" fill="#24343F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="34">• UI reference matching the screenshot on this poster</text>
+    <text x="876" y="4298" fill="#24343F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="34">• A clean path to local setup and further evaluation</text>
 
     <rect x="876" y="4388" width="1036" height="138" rx="28" fill="#F4EEE4"/>
-    <text x="1394" y="4473" fill="#17323B" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="36" font-weight="700" text-anchor="middle">https://github.com/shizhenneko/Photo_Search_Engine</text>
+    <text x="1394" y="4473" fill="#17323B" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="32" font-weight="700" text-anchor="middle">github.com/shizhenneko/Photo_Search_Engine</text>
   </g>
 
   <line x1="2242" y1="4236" x2="3238" y2="4236" stroke="#D8D0C4" stroke-width="3"/>
   <text x="2242" y="4376" fill="#15232F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="-2">Built for real photo recall,</text>
   <text x="2242" y="4464" fill="#15232F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="-2">not gallery browsing.</text>
-  <text x="2242" y="4580" fill="#66737B" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="40">Flask · FAISS · OpenAI-compatible models · optional Elasticsearch</text>
+  <text x="2242" y="4580" fill="#66737B" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="36">Flask · FAISS · OpenAI-compatible models · optional Elasticsearch</text>
   <text x="2242" y="4660" fill="#2B5D5C" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="2">PRINT NOTES</text>
-  <text x="2242" y="4724" fill="#7A868F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="30">Canvas includes 3 mm bleed and respects a 5 mm safety margin inside trim.</text>
-  <text x="2242" y="4788" fill="#7A868F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="30">Output size: 303 × 426 mm, optimized for A3 portrait competition submission.</text>
+  <text x="2242" y="4718" fill="#7A868F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="28">Canvas includes 3 mm bleed and respects a 5 mm safety margin inside trim.</text>
+  <text x="2242" y="4772" fill="#7A868F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="28">Output size: 303 × 426 mm, optimized for A3 portrait submission.</text>
 </svg>
